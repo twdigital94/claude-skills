@@ -16,7 +16,7 @@ More coming soon.
 
 ### Claude.ai (web or desktop app)
 
-1. Download the skill's ZIP from the [Releases](../../releases) page (or click **Code > Download ZIP** and zip the skill's folder yourself).
+1. Download the skill's ZIP from the [Releases](https://github.com/twdigital94/claude-skills/releases) page.
 2. In Claude, go to **Settings > Capabilities > Skills**.
 3. Click **Upload skill** and select the ZIP.
 
@@ -27,8 +27,8 @@ Then just ask, e.g. *"Build me a setup checklist for these Meta ads"* and attach
 Copy the skill folder into `~/.claude/skills/`:
 
 ```
-git clone https://github.com/YOUR-USERNAME/twdigital-claude-skills.git
-cp -r twdigital-claude-skills/meta-ads-build-checklist ~/.claude/skills/
+git clone https://github.com/twdigital94/claude-skills.git
+cp -r claude-skills/meta-ads-build-checklist ~/.claude/skills/
 ```
 
 ## Make it yours
